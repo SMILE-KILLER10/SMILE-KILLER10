@@ -2,5 +2,10 @@
 
 ![SMILE-KILLER-GITHUB STATS](https://github-readme-stats.vercel.app/api?username=SMILE-KILLER10&include_all_commits=true&count_private=true&theme=white)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMILE-KILLER10)
 
-![SMILE KILLER](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
-![SMILE KILLER](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
+### FOLLOW ON:
+
+[![SMILE KILLER](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
+[![SMILE KILLER](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
+
+[instagram]: https://instagram.com/SMILE_KILLER_TG
+[telegram]: https://t.me/SMILE_KILLER_010
